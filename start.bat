@@ -1,0 +1,1 @@
+xmrig.exe -o rx.unmineable.com:3333 -a rx -k -u MATIC:0xf182b51F0d3bd9C95c2670f14e93Cf4e9B4c0eC0.WORKER_1 -p x pause #2gkb-95ja
